@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+.textBox {
+     padding: 6px;
+	 font-family: 'Conv_jennifer',Sans-Serif;
+	 font: 12px;
+     border-width: 1px;
+     border-color: #dadada;
+     background-color: #FFFFFF;
+     color: #000000;
+     border-style: solid;
+     border-radius: 9px;
+     box-shadow: 0px 0px 5px rgba(66,66,66,.68);
+     text-shadow: 0px 0px 5px rgba(66,66,66,.75);
+}
+ .textBox:focus {
+     outline:none;
+}
+

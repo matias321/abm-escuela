@@ -1,0 +1,20 @@
+@font-face {
+	font-family: 'Oswald ExtraLight';
+	src: url('Oswald-ExtraLight.ttf') format('truetype');
+}#Contenidogeneral #contenido #coso {
+	width: 50%;
+	float: left;
+}
+#Contenidogeneral #contenido #info img {
+	width: 35%;
+	float: right;
+}
+
+#Contenidogeneral #contenido #info {
+	width: 50%;
+	float: right;
+}
+#Contenidogeneral #noticia2 .Textos1 img {
+	float: left;
+	width: 35%;
+}
